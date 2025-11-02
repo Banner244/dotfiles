@@ -2,7 +2,7 @@
 Bar used for hyprland.
 
 ## Images
-![screenshot]()
+![screenshot](https://github.com/Banner244/dotfiles/blob/main/quickshell/preview/wallpaper.png?raw=true)
 
 ## About
 Simple Bar. 
