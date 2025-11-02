@@ -5,12 +5,17 @@ Bar used for hyprland.
 ![screenshot](https://github.com/Banner244/dotfiles/blob/main/quickshell/preview/wallpaper.png?raw=true)
 
 ## About
-Simple Bar. 
-Active Right-Corner for Power-Window.(Shutdown, etc.)
-Active Left-Corner for settings. (Change Wallpapers)
-Simple Calendar.
-Simple quick Blueooth Widget.
-Simple quick Audio Widget.
+- Simple Bar. 
+- Active Right-Corner for Power-Window.(Shutdown, etc.)
+
+  ![screenshot](https://github.com/Banner244/dotfiles/blob/main/quickshell/preview/right.png?raw=true)
+- Active Left-Corner for settings. (Change Wallpapers)
+  
+  ![screenshot](https://github.com/Banner244/dotfiles/blob/main/quickshell/preview/left.png?raw=true)
+
+- Simple Calendar.
+- Simple quick Blueooth Widget.
+- Simple quick Audio Widget.
 
 ## Requirements
 
