@@ -19,4 +19,4 @@ Bar used for hyprland.
 
 ## Requirements
 
-  ifstat, nmcli, nm-connection-editor, bluez, blueman-manager
+  hyprpaper, ifstat, nmcli, nm-connection-editor, bluez, blueman-manager
