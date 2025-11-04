@@ -20,3 +20,5 @@ Bar used for hyprland.
 ## Requirements
 
   hyprpaper, ifstat, nmcli, nm-connection-editor, bluez, blueman-manager
+
+  Papirus-Dark/ should be installed in "~/.icons/".
